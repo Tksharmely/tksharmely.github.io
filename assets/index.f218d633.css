@@ -986,14 +986,14 @@ html{
     padding-right:2.5rem
 }
 .pt-10{
-    padding-top:2.5rem
+    padding-top:2.5rem;
 }
 .text-center{
     text-align:center
 }
 .text-4xl{
     font-size:2.25rem;
-    line-height:3rem
+    line-height:3rem;
 }
 .font-extrabold{
     font-weight:800
